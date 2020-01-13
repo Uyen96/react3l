@@ -1,0 +1,23 @@
+{
+  "district": {
+    "actions": {
+      "add": "",
+      "delete": "",
+      "edit": "",
+      "reset": ""
+    },
+    "delete": {
+      "content": "",
+      "failure": "",
+      "success": "",
+      "title": ""
+    },
+    "districtType": "",
+    "id": "",
+    "master": {
+      "title": ""
+    },
+    "name": "",
+    "province": ""
+  }
+}

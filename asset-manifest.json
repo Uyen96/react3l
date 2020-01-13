@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/thanhtunguet/react3l/wiki/static/css/main.91afbbe6.chunk.css",
+    "main.js": "/thanhtunguet/react3l/wiki/static/js/main.d150aad2.chunk.js",
+    "main.js.map": "/thanhtunguet/react3l/wiki/static/js/main.d150aad2.chunk.js.map",
+    "runtime-main.js": "/thanhtunguet/react3l/wiki/static/js/runtime-main.1b442755.js",
+    "runtime-main.js.map": "/thanhtunguet/react3l/wiki/static/js/runtime-main.1b442755.js.map",
+    "static/css/2.c46d9112.chunk.css": "/thanhtunguet/react3l/wiki/static/css/2.c46d9112.chunk.css",
+    "static/js/2.b1e86edf.chunk.js": "/thanhtunguet/react3l/wiki/static/js/2.b1e86edf.chunk.js",
+    "static/js/2.b1e86edf.chunk.js.map": "/thanhtunguet/react3l/wiki/static/js/2.b1e86edf.chunk.js.map",
+    "index.html": "/thanhtunguet/react3l/wiki/index.html",
+    "precache-manifest.337308465db6ec019ea0b673e7feeb55.js": "/thanhtunguet/react3l/wiki/precache-manifest.337308465db6ec019ea0b673e7feeb55.js",
+    "service-worker.js": "/thanhtunguet/react3l/wiki/service-worker.js",
+    "static/css/2.c46d9112.chunk.css.map": "/thanhtunguet/react3l/wiki/static/css/2.c46d9112.chunk.css.map",
+    "static/css/main.91afbbe6.chunk.css.map": "/thanhtunguet/react3l/wiki/static/css/main.91afbbe6.chunk.css.map",
+    "static/js/2.b1e86edf.chunk.js.LICENSE": "/thanhtunguet/react3l/wiki/static/js/2.b1e86edf.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b442755.js",
+    "static/css/2.c46d9112.chunk.css",
+    "static/js/2.b1e86edf.chunk.js",
+    "static/css/main.91afbbe6.chunk.css",
+    "static/js/main.d150aad2.chunk.js"
+  ]
+}

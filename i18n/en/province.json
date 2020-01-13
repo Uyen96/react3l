@@ -1,0 +1,18 @@
+{
+  "province": {
+    "detail": {
+      "districts": {
+        "newTitle": "",
+        "title": ""
+      },
+      "newTitle": "",
+      "title": ""
+    },
+    "id": "",
+    "master": {
+      "title": ""
+    },
+    "name": "",
+    "provinceType": ""
+  }
+}
