@@ -1,11 +1,8 @@
 {
   "general": {
     "actions": {
-      "add": "",
       "delete": "",
-      "edit": "",
-      "reset": "",
-      "save": ""
+      "edit": ""
     },
     "delete": {
       "content": "",

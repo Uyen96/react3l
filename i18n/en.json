@@ -1,55 +1,8 @@
 {
-  "collectionContent": {
-    "id": "",
-    "product": ""
-  },
-  "collection": {
-    "collectionContents": "",
-    "description": "",
-    "detail": {
-      "newTitle": "",
-      "title": ""
-    },
-    "end": "",
-    "id": "",
-    "master": {
-      "title": ""
-    },
-    "name": "",
-    "slug": "",
-    "start": "",
-    "status": "",
-    "statusId": "",
-    "title": ""
-  },
-  "district": {
-    "actions": {
-      "add": "",
-      "delete": "",
-      "edit": "",
-      "reset": ""
-    },
-    "delete": {
-      "content": "",
-      "failure": "",
-      "success": "",
-      "title": ""
-    },
-    "districtType": "",
-    "id": "",
-    "master": {
-      "title": ""
-    },
-    "name": "",
-    "province": ""
-  },
   "general": {
     "actions": {
-      "add": "",
       "delete": "",
-      "edit": "",
-      "reset": "",
-      "save": ""
+      "edit": ""
     },
     "delete": {
       "content": "",
@@ -65,41 +18,5 @@
       "from": "",
       "to": ""
     }
-  },
-  "menu": {
-    "collection": "",
-    "product": ""
-  },
-  "product": {
-    "detail": {
-      "newTitle": "",
-      "title": ""
-    },
-    "disabled": "",
-    "expiredDate": "",
-    "id": "",
-    "master": {
-      "title": ""
-    },
-    "merchant": "",
-    "name": "",
-    "status": "",
-    "type": ""
-  },
-  "province": {
-    "detail": {
-      "districts": {
-        "newTitle": "",
-        "title": ""
-      },
-      "newTitle": "",
-      "title": ""
-    },
-    "id": "",
-    "master": {
-      "title": ""
-    },
-    "name": "",
-    "provinceType": ""
   }
 }
