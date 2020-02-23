@@ -1,8 +1,19 @@
 {
+  "account": {
+    "detail": {
+      "newTitle": "",
+      "title": ""
+    },
+    "id": "",
+    "master": {
+      "title": ""
+    },
+    "name": "",
+    "orders": ""
+  },
   "general": {
     "actions": {
-      "delete": "",
-      "edit": ""
+      "add": ""
     },
     "delete": {
       "content": "",
@@ -10,13 +21,21 @@
       "success": "",
       "title": ""
     },
-    "master": {
+    "keys": {
       "actions": "",
+      "checkbox": "",
+      "expand": "",
       "index": ""
     },
     "numberRange": {
       "from": "",
       "to": ""
     }
+  },
+  "menu": {
+    "province": ""
+  },
+  "order": {
+    "id": ""
   }
 }

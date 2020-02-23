@@ -1,8 +1,19 @@
 {
+  "account": {
+    "detail": {
+      "newTitle": "Thêm mới tài khoản",
+      "title": "Thông tin tài khoản {{name}}"
+    },
+    "id": "ID",
+    "master": {
+      "title": "Danh sách tài khoản"
+    },
+    "name": "Tên",
+    "orders": "Đơn hàng"
+  },
   "general": {
     "actions": {
-      "delete": "",
-      "edit": ""
+      "add": "Thêm mới"
     },
     "delete": {
       "content": "",
@@ -10,13 +21,21 @@
       "success": "",
       "title": ""
     },
-    "master": {
-      "actions": "",
-      "index": ""
+    "keys": {
+      "actions": "Tác vụ",
+      "checkbox": "Chọn",
+      "expand": "Mở rộng",
+      "index": "STT"
     },
     "numberRange": {
-      "from": "",
-      "to": ""
+      "from": "Từ",
+      "to": "Đến"
     }
+  },
+  "menu": {
+    "province": "Tỉnh / Thành"
+  },
+  "order": {
+    "id": "ID"
   }
 }
