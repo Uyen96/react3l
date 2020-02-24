@@ -13,7 +13,11 @@
   },
   "general": {
     "actions": {
-      "add": ""
+      "add": "",
+      "close": "",
+      "filter": "",
+      "label": "",
+      "reset": ""
     },
     "delete": {
       "content": "",
@@ -27,15 +31,33 @@
       "expand": "",
       "index": ""
     },
+    "master": {
+      "defaultPreviewTitle": "",
+      "pagination": ""
+    },
     "numberRange": {
       "from": "",
       "to": ""
     }
   },
   "menu": {
-    "province": ""
+    "provinces": {
+      "add": "",
+      "detail": "",
+      "master": "",
+      "name": ""
+    },
+    "root": ""
   },
   "order": {
     "id": ""
+  },
+  "provinces": {
+    "code": "",
+    "id": "",
+    "master": {
+      "title": ""
+    },
+    "name": ""
   }
 }
