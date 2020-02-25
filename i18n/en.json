@@ -15,9 +15,11 @@
     "actions": {
       "add": "",
       "close": "",
+      "delete": "",
       "filter": "",
       "label": "",
-      "reset": ""
+      "reset": "",
+      "save": ""
     },
     "delete": {
       "content": "",
@@ -53,7 +55,13 @@
     "id": ""
   },
   "provinces": {
+    "add": {
+      "title": ""
+    },
     "code": "",
+    "detail": {
+      "title": ""
+    },
     "id": "",
     "master": {
       "title": ""
